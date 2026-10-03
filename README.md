@@ -20,3 +20,4 @@ B. Non-Functional Requirements
 6. Scalability: The system should support an increasing number of users.
 7. Maintainability: Authentication and authorization should be modular and easy to update.
 8. Privacy: Users shall only access information permitted by their roles.
+9. Accessibility: The system should be accessible to disabled users.
